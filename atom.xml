@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xiongxiaohui.com/"/>
-  <updated>2019-04-04T15:16:09.517Z</updated>
+  <updated>2019-04-05T14:04:29.193Z</updated>
   <id>https://xiongxiaohui.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2019年清明节登佘山</title>
+    <link href="https://xiongxiaohui.com/2019/04/05/2019%E5%B9%B4%E6%B8%85%E6%98%8E%E8%8A%82%E7%99%BB%E4%BD%98%E5%B1%B1/"/>
+    <id>https://xiongxiaohui.com/2019/04/05/2019年清明节登佘山/</id>
+    <published>2019-04-05T13:58:20.000Z</published>
+    <updated>2019-04-05T14:04:29.193Z</updated>
+    
+    <summary type="html">
+    
+      佘山
+    
+    </summary>
+    
+      <category term="个人游玩" scheme="https://xiongxiaohui.com/categories/%E4%B8%AA%E4%BA%BA%E6%B8%B8%E7%8E%A9/"/>
+    
+    
+      <category term="清明节登山" scheme="https://xiongxiaohui.com/tags/%E6%B8%85%E6%98%8E%E8%8A%82%E7%99%BB%E5%B1%B1/"/>
+    
+      <category term="上海松江" scheme="https://xiongxiaohui.com/tags/%E4%B8%8A%E6%B5%B7%E6%9D%BE%E6%B1%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>真觉得花花不演戏可惜了，音乐耽误的演员哈哈</title>
@@ -347,6 +369,26 @@
   </entry>
   
   <entry>
+    <title>相册添加</title>
+    <link href="https://xiongxiaohui.com/2018/09/12/hexo%E4%B8%BB%E9%A2%98next%E6%B7%BB%E5%8A%A0%E7%9B%B8%E5%86%8C/"/>
+    <id>https://xiongxiaohui.com/2018/09/12/hexo主题next添加相册/</id>
+    <published>2018-09-12T12:18:18.000Z</published>
+    <updated>2018-10-19T14:50:36.209Z</updated>
+    
+    <summary type="html">
+    
+      弄了好久，记录下怎么添加相册
+    
+    </summary>
+    
+      <category term="相册" scheme="https://xiongxiaohui.com/categories/%E7%9B%B8%E5%86%8C/"/>
+    
+    
+      <category term="hexo" scheme="https://xiongxiaohui.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>足迹</title>
     <link href="https://xiongxiaohui.com/2018/09/12/%E8%B6%B3%E8%BF%B9/"/>
     <id>https://xiongxiaohui.com/2018/09/12/足迹/</id>
@@ -365,26 +407,6 @@
       <category term="习惯" scheme="https://xiongxiaohui.com/tags/%E4%B9%A0%E6%83%AF/"/>
     
       <category term="意志力" scheme="https://xiongxiaohui.com/tags/%E6%84%8F%E5%BF%97%E5%8A%9B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>相册添加</title>
-    <link href="https://xiongxiaohui.com/2018/09/12/hexo%E4%B8%BB%E9%A2%98next%E6%B7%BB%E5%8A%A0%E7%9B%B8%E5%86%8C/"/>
-    <id>https://xiongxiaohui.com/2018/09/12/hexo主题next添加相册/</id>
-    <published>2018-09-12T12:18:18.000Z</published>
-    <updated>2018-10-19T14:50:36.209Z</updated>
-    
-    <summary type="html">
-    
-      弄了好久，记录下怎么添加相册
-    
-    </summary>
-    
-      <category term="相册" scheme="https://xiongxiaohui.com/categories/%E7%9B%B8%E5%86%8C/"/>
-    
-    
-      <category term="hexo" scheme="https://xiongxiaohui.com/tags/hexo/"/>
     
   </entry>
   
